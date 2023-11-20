@@ -3,7 +3,8 @@
 ![alt text](https://raw.githubusercontent.com/MakeItHackin/FlipBoard/main/images/colorFront.jpg)
 
 ## PURCHASE THE FLIPBOARD:
-https://www.tindie.com/products/32844/
+https://www.tindie.com/products/32844/  
+https://www.etsy.com/listing/1601295558/
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION
 https://youtu.be/2N2PRr3yv-8

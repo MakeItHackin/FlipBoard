@@ -9,7 +9,7 @@ https://www.tindie.com/products/32844/
 https://youtu.be/2N2PRr3yv-8
 
 ## FLIPBOARD APP AVAILABLE HERE
-TBD
+https://github.com/jamisonderek/flipboard
 ### Future Updates:
 As we continue to innovate and evolve the FlipBoard, our commitment to enhancing your Flipper experience remains unwavering. Stay tuned for exciting updates, as we have plans to introduce additional features in future firmware updates. Get ready to explore new possibilities and unlock fresh features with each update.  Planned updates include: Musical Keyboard, assign Flipper actions to macros (SubGHz, Infrared, etc), Mouse Mode, and Bluetooth connectivity.  
 

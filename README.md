@@ -6,7 +6,7 @@
 https://www.tindie.com/products/32844/
 
 ## YOUTUBE TUTORIAL / DEMONSTRATION
-TBD
+https://youtu.be/2N2PRr3yv-8
 
 ## FLIPBOARD APP AVAILABLE HERE
 TBD

@@ -13,6 +13,8 @@ https://youtu.be/2N2PRr3yv-8
 https://github.com/jamisonderek/flipboard
 ### Future Updates:
 As we continue to innovate and evolve the FlipBoard, our commitment to enhancing your Flipper experience remains unwavering. Stay tuned for exciting updates, as we have plans to introduce additional features in future firmware updates. Get ready to explore new possibilities and unlock fresh features with each update.  Planned updates include: Musical Keyboard, assign Flipper actions to macros (SubGHz, Infrared, etc), Mouse Mode, and Bluetooth connectivity.  
+### App Issues/Backlog/Roadmap  
+https://github.com/users/jamisonderek/projects/1  
 
 ## DESCRIPTION
 ### Introducing the FlipBoard... a Flipper Zero MacroPad Expansion Module!  Elevate your Flipper Zero experience to new heights with our innovative add-on that seamlessly integrates macro functionality into your favorite multi-tool device!  

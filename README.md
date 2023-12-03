@@ -10,7 +10,7 @@ https://www.etsy.com/listing/1601295558/
 https://youtu.be/2N2PRr3yv-8
 
 ## FLIPBOARD APP AVAILABLE HERE
-https://github.com/jamisonderek/flipboard  
+@CodeAllNight's Github: https://github.com/jamisonderek/flipboard  
 How to install (FlipC is the easiest method): https://github.com/jamisonderek/flipboard#installing-apps
 
 ### Future Updates:

@@ -11,7 +11,7 @@ https://youtu.be/2N2PRr3yv-8
 
 ## FLIPBOARD APP AVAILABLE HERE
 @CodeAllNight's Github: https://github.com/jamisonderek/flipboard  
-How to install (FlipC is the easiest method): https://github.com/jamisonderek/flipboard#installing-apps
+How to install (FlipC is the easiest method): https://github.com/jamisonderek/flipboard#installing-apps  
 Installation Video: https://youtu.be/797EzjtHD6I  
 
 ### Future Updates:

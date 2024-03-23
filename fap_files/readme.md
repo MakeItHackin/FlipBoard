@@ -3,6 +3,7 @@ Official
 Unleashed  
 Rogue Master  
 Xtreme  
+Momentum
 
 These fap files are manually created and may be delayed from the releases.  See notes for release compatibility.  These fap files were built for the release versions of the firmwares only.  
 
